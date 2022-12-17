@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akoeraste
+- 👋 Hi, I’m Eraste
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
