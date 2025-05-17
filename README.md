@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Dev TEA</h1>
 
-<p align="center">🚀
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7993D&center=true&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer;Passionate+Builder;Tech+Explorer;Bringing+Code+To+Life">
 </p>
 
@@ -70,7 +70,7 @@ I believe that **technology should feel human** — intuitive, helpful, and even
 
 ## 🧠 A Few Fun Things About Me
 - I love merging **tech + design** to create unique user journeys
-- I’m constantly learning — whether it’s AI/ML, clean architecture, or brewing the perfect cup of coffee
+- I’m constantly learning — whether it’s AI/ML, clean architecture, and of course always getting a perfect cup of coffee
 - Big fan of **collaborative problem-solving** and **community-driven development**
 
 ---
