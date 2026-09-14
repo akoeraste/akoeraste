@@ -1,87 +1,92 @@
-<h1 align="center"> I'm Dev TEA</h1>
+# Hi, I'm Ako Eraste 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7993D&center=true&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer;Passionate+Builder;Tech+Explorer;Bringing+Code+To+Life">
-</p>
+### Full-Stack Software Engineer | Mobile Engineer | AI Engineer
 
----
+I build production web, mobile, and AI-powered applications from concept to deployment. My work spans **Laravel, PHP, Node.js, React, Next.js, React Native, Flutter, Docker, and applied Machine Learning**, with experience delivering real-world products across multiple platforms.
 
-## 👋 About Me
-
-Hey! I’m Ako Eraste — a curious and passionate **Full Stack Developer**, **Mobile App Creator**, and **UI/UX Designer** on a mission to turn bold ideas into powerful digital experiences.
-
-I believe that **technology should feel human** — intuitive, helpful, and even a little fun. Whether it's designing user-centered interfaces or building scalable back-end logic, I'm all about crafting seamless journeys from start to finish.
-
-> “Build with intention, design with empathy, and scale with precision.”
+- 🌍 Based in Cameroon
+- 💼 Open to remote software engineering opportunities
+- 🎓 MEng in Computer Engineering
+- 🚀 Building scalable products, AI systems, and automation platforms
 
 ---
 
-## 🛠️ My Stack — Tools That Power My Creativity
+## What I Build
 
-### 🎨 Frontend
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 📱 Mobile
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### ✨ UI/UX Design
-- **Figma** • **Adobe XD** • **Sketch**
-- Wireframing • Prototyping • Micro-Interactions • Accessibility First
+- 🌐 Full-stack web applications with Laravel & React
+- 📱 Cross-platform mobile apps with **React Native** and Flutter
+- 🤖 AI-powered applications using TensorFlow Lite
+- 📍 GPS fleet-tracking systems
+- ⚡ Automation tools with Docker, Telegram & Meta integrations
 
 ---
 
-## 🚧 Currently Crafting
-- Building **intelligent full-stack solutions** with AI integrations
-- Creating **cross-platform apps** with clean, modern UI
-- Exploring **serverless + cloud-native architecture**
+## Featured Projects
+
+### 💊 PharmaLink *(React Native)*
+
+A cross-platform pharmacy locator application built entirely with React Native, designed for the Cameroon market with a smooth mobile-first experience and optimized performance.
+
+**Tech:** React Native • Laravel API • MySQL
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 🚗 Vehicle Tracking System
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akoeraste&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akoeraste&theme=radical" width="47%">
-</div>
+Built a production GPS fleet-tracking platform, including implementing a GT06 binary protocol parser from raw tracker packets.
 
----
-
-## 🌍 Let's Build the Future — Together
-
-<p align="center">
-  <a href="https://linkedin.com/in/akoeraste" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/akoeraste" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://facebook.com/akoeraste" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</p>
+**Tech:** Laravel • Node.js • MySQL • GPS • Socket.IO
 
 ---
 
-## 🧠 A Few Fun Things About Me
-- I love merging **tech + design** to create unique user journeys
-- I’m constantly learning — whether it’s AI/ML, clean architecture, and of course always getting a perfect cup of coffee
-- Big fan of **collaborative problem-solving** and **community-driven development**
+### 🌿 Verdex AI
+
+An open-source AI plant identification application featuring on-device machine learning for offline-friendly plant classification.
+
+**Tech:** Flutter • TensorFlow Lite • Firebase
 
 ---
 
-## 🗂️ Featured Work
+### 🔐 SeJun Secure Diary
 
-- 🔥 [**MedSPOT**](https://github.com/akoeraste/medspot): A full-stack web platform for finding pharmacies & drugs in real time (React + Laravel + Maps)
-- ⚡ [**SafeDash**](https://github.com/akoeraste/safedash): A multi-vendor multipurpose marketplace with rich features like chat, delivery, subscriptions & real-time updates (Laravel + SQL + Flutter)
+Behavioral biometric authentication system developed as part of my MEng research, combining typing dynamics, touch behavior, and one-class anomaly detection with on-device TensorFlow Lite inference.
+
+**Tech:** Flutter • TensorFlow Lite • Machine Learning
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7993D&center=true&width=480&lines=Thanks+for+visiting!+;Let%27s+create+with+code+!">
-</p>
+## Tech Stack
+
+### Backend
+
+Laravel • PHP • Node.js • Express • REST APIs
+
+### Frontend
+
+React • Next.js • JavaScript • TypeScript
+
+### Mobile
+
+React Native • Flutter • Android
+
+### AI & DevOps
+
+TensorFlow Lite • Docker • Firebase • MySQL • PostgreSQL
+
+---
+
+## Engineering Highlights
+
+- Built a complete React Native application for a real-world healthcare use case.
+- Implemented a raw GPS binary protocol parser from scratch.
+- Developed behavioral biometric authentication with on-device TensorFlow Lite inference.
+- Built offline-first synchronization for mobile applications.
+- Delivered production software across web, mobile, and AI.
+
+---
+
+## Connect With Me
+
+- 🌐 Portfolio: **devtea.vercel.app**
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 📧 Email: *(Add your professional email)*
