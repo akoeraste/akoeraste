@@ -25,7 +25,7 @@ I build production web, mobile, and AI-powered applications from concept to depl
 ### 💊 PharmaLink *(React Native)*
 
 A cross-platform pharmacy locator application built entirely with React Native, designed for the Cameroon market with a smooth mobile-first experience and optimized performance.
-
+**Link :** https://github.com/akoeraste/PharmaLink
 **Tech:** React Native • Laravel API • MySQL
 
 ---
@@ -33,7 +33,7 @@ A cross-platform pharmacy locator application built entirely with React Native, 
 ### 🚗 Vehicle Tracking System
 
 Built a production GPS fleet-tracking platform, including implementing a GT06 binary protocol parser from raw tracker packets.
-
+**Link : ** https://github.com/akoeraste/vehicle-tracking-system
 **Tech:** Laravel • Node.js • MySQL • GPS • Socket.IO
 
 ---
@@ -49,7 +49,7 @@ An open-source AI plant identification application featuring on-device machine l
 ### 🔐 SeJun Secure Diary
 
 Behavioral biometric authentication system developed as part of my MEng research, combining typing dynamics, touch behavior, and one-class anomaly detection with on-device TensorFlow Lite inference.
-
+**Link : ** https://github.com/akoeraste/sejun-app
 **Tech:** Flutter • TensorFlow Lite • Machine Learning
 
 ---
