@@ -4,7 +4,6 @@
 
 I build production web, mobile, and AI-powered applications from concept to deployment. My work spans **Laravel, PHP, Node.js, React, Next.js, React Native, Flutter, Docker, and applied Machine Learning**, with experience delivering real-world products across multiple platforms.
 
-- 🌍 Based in Cameroon
 - 💼 Open to remote software engineering opportunities
 - 🎓 MEng in Computer Engineering
 - 🚀 Building scalable products, AI systems, and automation platforms
