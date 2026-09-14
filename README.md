@@ -97,6 +97,6 @@ Behavioral biometric authentication system developed as part of my MEng research
 
 ## Connect With Me
 
-- 🌐 Portfolio: **devtea.vercel.app**
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your professional email)*
+- 🌐 Portfolio: **Loading...**
+- 💼 LinkedIn: *linkedin.com/in/akoeraste*
+- 📧 Email: *akoeraste@gmail.com*
